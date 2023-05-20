@@ -1,0 +1,62 @@
+.box1  {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(0, 255, 255);
+  height: 50vh;
+  margin: 3% 0 0 15%;
+  width: 30vw;
+  margin-left: 500px;
+}
+.labelemail {
+  margin-right: 2%;
+}
+
+.register-box {
+  margin-right: 20px;
+}
+
+
+.register {
+  color: rgb(218, 12, 12);
+  margin-top: 16px;
+}
+
+.name{
+  padding: 8px;
+  margin-right: 3px;
+  margin-left: 24px;
+
+}
+
+.name1{
+  margin-left: 28px;
+}
+
+.name2{
+  margin-left: 32px;
+}
+
+.name3{
+  margin-left: 4px;
+}
+
+.name4  {
+  margin-left: 22px;
+}
+
+.space{
+  margin-left: 165px;
+  margin-top: 16px;
+  margin-bottom: 14px;
+
+}
+
+.heading{
+  display: flex;
+  justify-content: center;
+}
+
+.login1{
+  margin-top: 4rem!important;
+  margin-left: 7rem;
+}
